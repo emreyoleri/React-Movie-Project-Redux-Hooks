@@ -1,5 +1,5 @@
 {
-  "name": "fast-fingers-project-redux",
+  "name": "react-movie-project-redux-hooks",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -8,6 +8,7 @@
     "@testing-library/user-event": "^12.8.3",
     "axios": "^0.21.1",
     "bootstrap": "^5.0.2",
+    "bootstrap-icons": "^1.10.3",
     "react": "^17.0.2",
     "react-dom": "^17.0.2",
     "react-redux": "^7.2.4",
